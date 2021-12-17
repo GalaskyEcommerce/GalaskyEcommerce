@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Vincent.
+- 👀 I’m interested in web development, graphic design, coding and music production.
+- 🌱 I’m currently learning Javascript, I'm mainly a graphic designer and musician.
+- 💞️ I’m looking to collaborate on designing a personalized checkout system for my site to increase conversions.
+- 📫 How to reach me: GalaskyEcommerce@gmail.com
